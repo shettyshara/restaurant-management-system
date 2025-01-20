@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60639598-9c1e-4dae-8bf5-a7e87af474a1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2rtPSqRUaoNSSKMs6PHMkMezCg3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EurekaApplication.executor": "Run",
+    "Application.MenuServiceApplication (1).executor": "Run",
+    "Application.MenuServiceApplication.executor": "Run",
+    "Application.OrderServiceApplication (1).executor": "Run",
+    "Application.OrderServiceApplication.executor": "Run",
+    "Maven.eureka [clean].executor": "Run",
+    "Maven.eureka [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Shara Shetty/OneDrive/Desktop/restaurant-management-system",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shara Shetty\OneDrive\Desktop\restaurant-management-system\menu-service\src\main\java\com\example\menu\service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OrderServiceApplication (1)">
+    <configuration name="EurekaApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.eureka.EurekaApplication" />
+      <module name="eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.menuservice.MenuServiceApplication" />
+      <module name="restaurant-management-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.menuservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuServiceApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.menuservice.MenuServiceApplication" />
+      <module name="menu-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.menuservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.orderservice.OrderServiceApplication" />
+      <module name="order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.orderservice.OrderServiceApplication" />
+      <module name="restaurant-management-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EurekaApplication" />
+      <item itemvalue="Application.OrderServiceApplication (1)" />
+      <item itemvalue="Application.MenuServiceApplication" />
+      <item itemvalue="Application.OrderServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OrderServiceApplication (1)" />
+        <item itemvalue="Application.OrderServiceApplication" />
+        <item itemvalue="Application.MenuServiceApplication" />
+        <item itemvalue="Application.MenuServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60639598-9c1e-4dae-8bf5-a7e87af474a1" name="Changes" comment="" />
+      <created>1737375403523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737375403523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
